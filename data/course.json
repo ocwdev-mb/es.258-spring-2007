@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ]
+  ],
+  "legacy_uid": "f8884fc6-5c54-04f2-516c-1224f4c647cd",
+  "instructors": {
+    "content": [
+      "56a1a742-f305-5788-f2be-1bba747b2da9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dd2408e1-e30d-2fb7-0d48-5d6c35b79eb6",
+    "website": "es-258-goedel-escher-bach-spring-2007"
+  },
+  "course_title": "G\u00f6del, Escher, Bach",
+  "course_description": "How are math, art, music, and language intertwined? How does intelligent behavior arise from its component parts? Can computers think? Can brains compute? Douglas Hofstadter probes very cleverly at these questions and more in his Pulitzer Prize winning book, \"G\u00f6del, Escher, Bach\". In this seminar, we will read and discuss the book in depth, taking the time to solve its puzzles, appreciate the Bach pieces that inspired its dialogues, and discover its hidden tricks along the way.\n",
+  "department_numbers": [
+    "ES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ES.258",
+  "course_image_thumbnail": {
+    "content": "0dd4b1e8-3bd2-6526-783e-97ed2eb07649",
+    "website": "es-258-goedel-escher-bach-spring-2007"
+  },
+  "learning_resource_types": [],
+  "site_uid": "7433a8a6-52fe-4eb3-810a-62d35f0658a1",
+  "site_short_id": "es.258-spring-2007",
+  "title": "Course Metadata"
+}
